@@ -10,8 +10,8 @@ package utfpr.dainf.if62c.pratica;
  * @author davip_000
  */
 public class Elipse implements FiguraComEixos {
-    private double eixo1;
-    private double eixo2;
+    private final double eixo1;
+    private final double eixo2;
     
     public Elipse(double eixo1, double eixo2){
         this.eixo1=eixo1;
