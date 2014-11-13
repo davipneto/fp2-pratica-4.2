@@ -1,6 +1,6 @@
 
-import utfpr.dainf.if62c.pratica.Circulo;
-import utfpr.dainf.if62c.pratica.Elipse;
+import utfpr.ct.dainf.if62c.pratica.Circulo;
+import utfpr.ct.dainf.if62c.pratica.Elipse;
 
 /*
  * To change this license header, choose License Headers in Project Properties.

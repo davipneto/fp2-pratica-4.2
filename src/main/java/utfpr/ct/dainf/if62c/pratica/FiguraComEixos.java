@@ -3,14 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package utfpr.dainf.if62c.pratica;
+package utfpr.ct.dainf.if62c.pratica;
 
 /**
  *
  * @author davip_000
  */
-public interface Figura {
-    public String getNome();
-    public double getPerimetro();
-    public double getArea();
+public interface FiguraComEixos extends Figura {
+    public double getEixoMenor();
+    public double getEixoMaior();
 }
